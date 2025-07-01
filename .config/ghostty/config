@@ -1,0 +1,26 @@
+
+title = " "
+
+font-size = 20
+font-family = "JetBrainsMono NFM Medium"
+font-family-bold = "JetBrainsMono NFM SemiBold"
+font-family-italic = "JetBrainsMono NFM Medium Italic"
+font-family-bold-italic = "JetBrainsMono NFM SemiBold Italic"
+
+cursor-style = block
+
+mouse-hide-while-typing = true
+
+theme = catppuccin-mocha
+background-opacity = 0.9
+background-blur = 20
+
+shell-integration = fish
+shell-integration-features = no-cursor
+
+macos-titlebar-style = transparent
+macos-titlebar-proxy-icon = hidden
+
+window-decoration = none
+
+background-opacity = 0.3
